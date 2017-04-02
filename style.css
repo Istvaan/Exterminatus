@@ -1,0 +1,87 @@
+body{
+    width: 688px;
+    height: 100%;
+    margin: auto;
+    font-family: georgia;
+}
+
+.header{
+    height: 80px;
+
+}
+
+.headleft{
+    height: 50%;
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+}
+
+.headright{
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+
+.header button{
+    float: right;
+    width: 70px;
+    margin-top: 15px;
+    border: none;
+    background-color:darkred;
+    color: #FFFFFF;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+
+.maincontent{
+    height: 274px;
+    background-color:#EEEEEE;
+    border-radius: 4px;
+}
+
+.maincontent button{
+    margin-top: 30px;
+    font-size: x-large;
+    margin-left: 234px;
+    color: aliceblue;
+    background-color: #5CB85C;
+    border-radius: 8px;
+}
+
+.maincontent b{
+    text-align: center;
+}
+
+.maincontent h1{
+    padding-top: 20px;
+
+}
+
+.wahainfo{
+    width: 582px;
+    margin: auto;
+}
+
+.library{
+    height: auto;
+    margin-top: 10px;
+
+
+}
+
+.blockone{
+    height: 200px;
+    width: 344px;
+    float: left;
+}
+
+.blocktwo{
+    height: 200px;
+    width: 344px;
+    float: right;
+}
+
+
+
